@@ -62,8 +62,8 @@ def my_metrics(y_true, y_pred):
 
 
 
-url1='http://219.148.85.172:9111/img/captcha.jpg?15'
-url2 = 'http://219.148.85.172:9111/j_spring_security_check'
+url1='http://URP教务系统域名/img/captcha.jpg?15'
+url2 = 'http://URP教务系统域名/j_spring_security_check'
 
 
 def urp_predict_getdata(number=100):
