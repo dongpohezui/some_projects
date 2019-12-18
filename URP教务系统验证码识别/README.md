@@ -4,7 +4,7 @@
 ## 环境
  - Keras 2.3.1   
  - tensorflow 1.15.0
-
+ - windows or ubuntu
 
 ## 目录
 
